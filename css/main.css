@@ -1,0 +1,86 @@
+html{
+    background-color: #f7f4d7 ;
+   
+}
+.Body{
+    padding: 0;
+    margin: 0;
+}
+.header{
+display: flex;
+}
+.brunchtitle{
+}
+.titleblock{
+    display: flex;
+    height: 160px;
+    width: 100%;
+    background-color:burlywood;
+}
+.brunch{
+    margin-left: 280px;
+    padding-right: 270px;
+    font-size: 64px;
+    display: flex;
+    align-items: center;
+}
+.facebook{
+    display: flex;
+    margin-top:80px ;
+    margin-left: 10px;
+    margin-right: 10px;
+    justify-content: right;
+    width: 60px;
+    height: 60px;
+}
+.facebook:hover{
+    width: 63px;
+    height: 63px;
+    margin-right: 7px;
+}
+.instagram{
+    display: flex;
+    margin-top:80px ;
+    margin-left: 10px;
+    margin-right: 10px;
+    justify-content: right;
+    width: 60px;
+    height: 60px;
+}
+.instagram:hover{
+    width: 63Px;
+    height: 63px;
+}
+.article1{
+    display: flex;
+    margin: 0px 0px;
+    justify-content: space-between;
+    border:3px solid rgba(104, 12, 12, 0.997) ;
+    border-right: 3px;
+    border-left: 3px;
+}
+.Home,.Menu,.Reserve,.Questionnaire{
+    margin: 10px 50px;
+    display: flex;
+    font-size: 36px;
+    text-decoration:none;
+    color: brown;
+}
+.Home:hover,.Menu:hover,.Reserve:hover,.Questionnaire:hover{
+    color: brown;
+    opacity: 0.6;
+}
+
+.footer{
+    margin-top: 30px;
+    margin-bottom: 0;
+    display: flex;
+    width: 100%;
+    height: 60px;
+    background-color: rgba(87, 48, 24, 0.801);
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    color: #EDF2C5;
+    
+}

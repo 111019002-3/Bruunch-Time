@@ -1,0 +1,43 @@
+.content{
+    display: block;
+
+}
+.menu-img{
+    display: block;
+    margin-top: 30px;
+    width: 60%;
+    margin-left: 20%;
+    margin-right:20% ;
+   
+}
+.menu2{
+    display: flex;
+    margin-top: 30px;
+}
+.half{
+    display: block;
+    width: 50%;
+    margin: 0;
+    margin-left: 90px;
+}
+.menu-egg{
+    display: block; 
+    width: 450px;
+    height: 300px;
+    margin: 0;
+}
+.menu-chicken{
+    display: block;
+    width: 450px;
+    height: 300px;
+    margin: 0;
+}
+.menu-word1{
+    display: block;
+    font-size: 24px;
+    margin-left: 24%;
+}
+.menu-word2{
+    display: block;
+    font-size: 16px;
+}

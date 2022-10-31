@@ -1,0 +1,49 @@
+.nav{
+display: flex;
+margin-left: 410px;
+margin-top: 50px;
+}
+.name{
+font-size: 32px;
+margin-right: 43px;
+}
+.name-input{
+font-size: 24px;
+width: 150px;
+}
+.phone-input{
+    font-size: 24px;
+    width: 300px;
+}
+.email{
+    font-size: 32px;
+margin-right: 30px;
+height: 43px;
+}
+.email-input{
+    font-size: 24px;
+    width: 300px;
+}
+.say-input{
+    font-size: 24px;
+    width: 300px;
+    height: 200px;
+}
+.btno{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    margin-top: 40px;
+    display: flex;
+    border: 1px solid black;
+    padding: 20px 194px;
+    border-radius: 5px;
+    background-color: burlywood;
+    text-decoration: none;
+    color: black;
+    font-size: 24px;
+}
+.btn:hover{
+background-color: rgb(218, 170, 107);
+}
